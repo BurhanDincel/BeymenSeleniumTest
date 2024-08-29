@@ -12,12 +12,12 @@ public class ExcelUtils {
 
     private static Workbook workbook;
     private static Sheet sheet;
-    private static String filePath = "C:\\Users\\Administrator\\Desktop\\TestiniumProject\\Beymen.xlsx";
+    private static String filePath = "C:\\Users\\Administrator\\IdeaProjects\\TestiniumHW1\\src\\main\\resources\\Beymen.xlsx";
 
     // Excel dosyasını aç ve belirtilen sayfayı seç
     public static void loadExcel(String filePath, int sheetIndex) {
         try {
-            FileInputStream file = new FileInputStream(new File(filePath));
+            FileInputStream file = new FileInputStream(filePath);
             workbook = WorkbookFactory.create(file);
             sheet = workbook.getSheetAt(sheetIndex);
             file.close();
