@@ -1,0 +1,982 @@
+2024-08-27 16:42:25 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 16:42:30 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 16:42:30 [main] INFO  BeymenTest:44 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 16:50:41 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 16:50:48 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 16:50:48 [main] INFO  BeymenTest:44 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 16:54:38 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 16:54:43 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 16:54:43 [main] INFO  BeymenTest:44 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 16:56:38 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 16:56:43 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 16:56:46 [main] INFO  BeymenTest:44 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 16:56:46 [main] INFO  BeymenTest:46 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:01:05 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:01:13 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:02:35 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:02:39 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:03:16 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:03:36 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:03:48 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:04:27 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:04:33 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:04:50 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:04:56 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:05:13 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:05:18 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:05:21 [main] INFO  BeymenTest:47 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:05:21 [main] INFO  BeymenTest:50 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:05:31 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:05:36 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:05:45 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:05:49 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:06:10 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:06:17 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:07:26 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:07:30 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:07:37 [main] INFO  BeymenTest:47 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:07:37 [main] INFO  BeymenTest:50 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:07:57 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:08:10 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:08:17 [main] INFO  BeymenTest:44 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:08:24 [main] INFO  BeymenTest:47 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:08:24 [main] INFO  BeymenTest:50 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:08:46 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:08:51 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:09:11 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:09:23 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:09:30 [main] INFO  BeymenTest:44 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:09:37 [main] INFO  BeymenTest:47 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:09:37 [main] INFO  BeymenTest:50 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:09:59 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:10:07 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:10:14 [main] INFO  BeymenTest:44 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:15:08 [main] INFO  BeymenTest:34 - Ana sayfa açılıyor.
+2024-08-27 17:15:13 [main] INFO  BeymenTest:37 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:19:27 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:19:32 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:20:38 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:20:45 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:20:52 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:22:18 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:22:26 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:22:30 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:22:34 [main] INFO  BeymenTest:51 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:22:38 [main] INFO  BeymenTest:54 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 17:22:38 [main] INFO  BeymenTest:57 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:24:12 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:24:17 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:25:02 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:25:07 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:25:11 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:25:15 [main] INFO  BeymenTest:51 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:25:19 [main] INFO  BeymenTest:54 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 17:25:19 [main] INFO  BeymenTest:57 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:26:33 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:26:39 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:26:48 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:26:53 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:27:30 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:27:35 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:27:39 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:27:43 [main] INFO  BeymenTest:51 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:27:47 [main] INFO  BeymenTest:54 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 17:27:47 [main] INFO  BeymenTest:57 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 17:36:15 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:36:28 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:36:32 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:36:36 [main] INFO  BeymenTest:51 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:36:40 [main] INFO  BeymenTest:54 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 17:39:20 [main] INFO  BeymenTest:38 - Ana sayfa açılıyor.
+2024-08-27 17:39:25 [main] INFO  BeymenTest:41 - Ana sayfa başarıyla açıldı.
+2024-08-27 17:39:29 [main] INFO  BeymenTest:48 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 17:39:33 [main] INFO  BeymenTest:51 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 17:39:37 [main] INFO  BeymenTest:54 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 17:39:38 [main] INFO  BeymenTest:57 - Arama butonuna tıklandı.
+2024-08-27 17:39:38 [main] INFO  BeymenTest:60 - Arama kutucuğuna 'şort' kelimesi giriliyor.
+2024-08-27 18:20:30 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:20:35 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:20:43 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:20:47 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:21:40 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:21:49 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:21:53 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 18:21:57 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 18:22:01 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 18:22:02 [main] INFO  BeymenTest:62 - Arama butonuna tıklandı.
+2024-08-27 18:22:02 [main] INFO  BeymenTest:65 - Arama kutucuğuna veri giriliyor.
+2024-08-27 18:23:29 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:23:34 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:23:44 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:23:49 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:23:55 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:24:02 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:24:06 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 18:24:10 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 18:24:14 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 18:24:15 [main] INFO  BeymenTest:62 - Arama butonuna tıklandı.
+2024-08-27 18:24:15 [main] INFO  BeymenTest:65 - Arama kutucuğuna veri giriliyor.
+2024-08-27 18:25:26 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:25:39 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:25:43 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 18:25:47 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 18:25:52 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 18:25:53 [main] INFO  BeymenTest:62 - Arama butonuna tıklandı.
+2024-08-27 18:25:53 [main] INFO  BeymenTest:65 - Arama kutucuğuna veri giriliyor.
+2024-08-27 18:27:17 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:27:31 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:27:35 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 18:27:39 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 18:27:43 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 18:27:44 [main] INFO  BeymenTest:62 - Arama butonuna tıklandı.
+2024-08-27 18:27:44 [main] INFO  BeymenTest:65 - Arama kutucuğuna veri giriliyor.
+2024-08-27 18:45:33 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:45:37 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:45:42 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:45:46 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:45:50 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 18:46:09 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 18:46:13 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 18:46:17 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 18:46:21 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 18:46:22 [main] INFO  BeymenTest:62 - Arama butonuna tıklandı.
+2024-08-27 18:46:22 [main] INFO  BeymenTest:65 - Arama kutucuğuna veri giriliyor.
+2024-08-27 20:34:53 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:34:59 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:35:05 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:35:10 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:35:14 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:35:17 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:35:22 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 20:35:26 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 20:35:32 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:35:36 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:35:40 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:35:45 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:35:49 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:35:55 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:36:05 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:36:10 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:36:16 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:36:21 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:36:52 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:36:59 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:37:10 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:37:22 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:37:26 [main] INFO  BeymenTest:53 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 20:37:30 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 20:37:34 [main] INFO  BeymenTest:59 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 20:38:25 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:38:29 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:38:33 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:38:37 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:38:42 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:38:47 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:38:51 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:39:01 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:41:53 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:41:58 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:42:23 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:42:27 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:42:32 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:42:39 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:42:59 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:43:03 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:55:47 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:55:52 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:57:55 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:58:01 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:58:05 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 20:58:10 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:58:16 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 20:58:20 [main] INFO  BeymenTest:56 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 20:59:01 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 20:59:07 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:00:02 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 21:00:09 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:00:28 [main] INFO  BeymenTest:43 - Ana sayfa açılıyor.
+2024-08-27 21:00:33 [main] INFO  BeymenTest:46 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:01:16 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:01:20 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:01:24 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:02:39 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:02:51 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:02:55 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:02:59 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:03:20 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:03:28 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:03:32 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:03:36 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:03:40 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:05:17 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:05:32 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:05:36 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:05:40 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:05:44 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:16:04 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:16:21 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:16:25 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:16:29 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:16:33 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:18:15 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:18:24 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:18:28 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:18:32 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:18:36 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:19:47 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:19:57 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:20:01 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:20:05 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:20:09 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:23:47 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:23:56 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:24:00 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:24:04 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:24:08 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:26:21 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:26:36 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:26:40 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:26:44 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:26:50 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:30:10 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:30:19 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:30:23 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:30:27 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:30:33 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:32:04 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:32:13 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:32:17 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:32:21 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:32:27 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:33:43 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:33:52 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:33:56 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:34:00 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:34:06 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:34:06 [main] INFO  BeymenTest:64 - Arama kutucuğuna veri giriliyor.
+2024-08-27 21:36:37 [main] INFO  BeymenTest:42 - Ana sayfa açılıyor.
+2024-08-27 21:36:50 [main] INFO  BeymenTest:45 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:36:54 [main] INFO  BeymenTest:52 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:36:58 [main] INFO  BeymenTest:55 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:37:04 [main] INFO  BeymenTest:58 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:49:52 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 21:50:01 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:50:05 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:50:09 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:50:15 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:54:13 [main] INFO  BeymenTest:54 - Ana sayfa açılıyor.
+2024-08-27 21:54:22 [main] INFO  BeymenTest:57 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:54:27 [main] INFO  BeymenTest:64 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:54:31 [main] INFO  BeymenTest:67 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:54:37 [main] INFO  BeymenTest:70 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:55:55 [main] INFO  BeymenTest:54 - Ana sayfa açılıyor.
+2024-08-27 21:56:04 [main] INFO  BeymenTest:57 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:56:08 [main] INFO  BeymenTest:64 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:56:12 [main] INFO  BeymenTest:67 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:56:18 [main] INFO  BeymenTest:70 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 21:57:06 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 21:57:14 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 21:57:18 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 21:57:22 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 21:57:28 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:21:17 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:21:26 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:21:31 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:21:35 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:21:41 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:24:10 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:24:26 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:24:30 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:24:34 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:24:40 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:25:21 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:25:30 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:25:34 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:25:38 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:25:44 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:26:31 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:26:41 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:26:45 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:26:49 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:26:55 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:26:56 [main] INFO  BeymenTest:68 - Arama butonuna tıklandı.
+2024-08-27 22:26:56 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:28:11 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:28:21 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:28:26 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:28:30 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:28:36 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:28:36 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:29:29 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:29:39 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:29:43 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:29:47 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:29:53 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:29:53 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:48:15 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:48:23 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:48:27 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:48:31 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:48:38 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:48:38 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:48:43 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 22:51:21 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:51:32 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:51:36 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:51:40 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:51:46 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:51:46 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:51:51 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 22:52:55 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:53:03 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:53:07 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:53:11 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:53:17 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:53:17 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:53:23 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 22:56:29 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 22:56:39 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 22:56:43 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 22:56:48 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 22:56:54 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 22:56:54 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 22:57:11 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:01:32 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:01:42 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:01:46 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:01:50 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:01:56 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:01:56 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:02:13 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:06:34 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:06:44 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:06:48 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:06:52 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:06:56 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:06:56 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:07:17 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:08:27 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:08:35 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:08:39 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:08:43 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:08:47 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:08:47 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:24:37 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:24:46 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:24:51 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:24:55 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:24:59 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:24:59 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:25:19 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:27:50 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:27:58 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:28:02 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:28:06 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:28:11 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:28:11 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:28:45 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:29:44 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:29:54 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:29:59 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:30:03 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:30:07 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:30:07 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:30:41 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:33:47 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:33:56 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:33:59 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:34:02 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:35:05 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:35:15 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:35:19 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:35:23 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:35:26 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:35:26 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:35:57 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-27 23:46:15 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-27 23:46:25 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-27 23:46:29 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-27 23:46:33 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-27 23:46:36 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-27 23:46:36 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-27 23:47:07 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 08:44:19 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 08:44:25 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 08:44:29 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 08:44:33 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 08:44:36 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 08:44:36 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 08:45:08 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:25:53 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:25:59 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:26:03 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:26:07 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:26:10 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:26:10 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:26:41 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:28:16 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:28:22 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:28:26 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:28:30 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:28:33 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:28:33 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:29:04 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:30:40 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:30:46 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:30:50 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:30:54 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:30:57 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:30:57 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:31:28 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:34:03 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:34:09 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:34:13 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:34:17 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:34:20 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:34:20 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:34:43 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:37:55 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:38:00 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:38:04 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:38:08 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:38:11 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:38:11 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:38:35 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:39:43 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:39:48 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:39:52 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:39:56 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:39:59 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:39:59 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:40:24 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:40:24 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 09:42:43 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:42:48 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:42:52 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:42:56 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:43:00 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:43:00 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:43:24 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:43:24 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 09:43:24 [main] INFO  BeymenTest:83 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: -%30
+3.699 TL
+2.599 TL
+2024-08-28 09:43:24 [main] INFO  BeymenTest:90 - Ürün sepete ekleniyor.
+2024-08-28 09:54:31 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:54:36 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:54:41 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:54:45 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:54:48 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:54:48 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:55:12 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:55:12 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 09:56:00 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 09:56:06 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 09:56:10 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 09:56:14 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 09:56:17 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 09:56:17 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 09:56:42 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 09:56:42 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 09:56:42 [main] INFO  BeymenTest:83 - Seçilen ürün: , Fiyat: 2.599 TL
+2024-08-28 09:56:42 [main] INFO  BeymenTest:90 - Ürün sepete ekleniyor.
+2024-08-28 10:01:50 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 10:01:55 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 10:01:59 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 10:02:03 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 10:02:06 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 10:02:06 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 10:02:31 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 10:02:31 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 10:02:31 [main] INFO  BeymenTest:83 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 10:02:31 [main] INFO  BeymenTest:90 - Ürün sayfasına gidiliyor.
+2024-08-28 10:02:33 [main] INFO  BeymenTest:93 - Ürün sepete ekleniyor.
+2024-08-28 10:09:02 [main] INFO  BeymenTest:49 - Ana sayfa açılıyor.
+2024-08-28 10:09:07 [main] INFO  BeymenTest:52 - Ana sayfa başarıyla açıldı.
+2024-08-28 10:09:12 [main] INFO  BeymenTest:59 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 10:09:16 [main] INFO  BeymenTest:62 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 10:09:19 [main] INFO  BeymenTest:65 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 10:09:19 [main] INFO  BeymenTest:71 - Arama kutucuğuna veri giriliyor.
+2024-08-28 10:09:43 [main] INFO  BeymenTest:74 - Arama sonuçları kontrol ediliyor.
+2024-08-28 10:09:43 [main] INFO  BeymenTest:77 - Rastgele bir ürün seçiliyor.
+2024-08-28 10:09:43 [main] INFO  BeymenTest:83 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 10:09:43 [main] INFO  BeymenTest:90 - Ürün sayfasına gidiliyor.
+2024-08-28 10:09:45 [main] INFO  BeymenTest:93 - Rastgele bir beden seçiliyor.
+2024-08-28 10:09:45 [main] INFO  BeymenTest:96 - Ürün sepete ekleniyor.
+2024-08-28 11:38:57 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 11:39:02 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 11:39:07 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 11:39:11 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 11:39:14 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 11:39:14 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 11:39:38 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 11:39:38 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 11:39:38 [main] INFO  BeymenTest:81 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 11:39:38 [main] INFO  BeymenTest:88 - Ürün sayfasına gidiliyor.
+2024-08-28 11:39:40 [main] INFO  BeymenTest:91 - Rastgele bir beden seçiliyor.
+2024-08-28 11:39:40 [main] INFO  BeymenTest:94 - Ürün sepete ekleniyor.
+2024-08-28 11:39:40 [main] INFO  BeymenTest:97 - Sepete gidiliyor.
+2024-08-28 11:42:40 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 11:42:46 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 11:42:50 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 11:42:54 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 11:42:57 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 11:42:57 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 11:43:22 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 11:43:22 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 11:43:22 [main] INFO  BeymenTest:81 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 11:43:22 [main] INFO  BeymenTest:88 - Ürün sayfasına gidiliyor.
+2024-08-28 11:43:29 [main] INFO  BeymenTest:91 - Rastgele bir beden seçiliyor.
+2024-08-28 11:43:29 [main] INFO  BeymenTest:94 - Ürün sepete ekleniyor.
+2024-08-28 11:43:29 [main] INFO  BeymenTest:97 - Sepete gidiliyor.
+2024-08-28 11:51:53 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 11:51:59 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 11:52:03 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 11:52:07 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 11:52:10 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 11:52:10 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 11:52:35 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 11:52:35 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 11:52:35 [main] INFO  BeymenTest:81 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 11:52:35 [main] INFO  BeymenTest:88 - Ürün sayfasına gidiliyor.
+2024-08-28 11:52:37 [main] INFO  BeymenTest:91 - Rastgele bir beden seçiliyor.
+2024-08-28 11:52:37 [main] INFO  BeymenTest:94 - Ürün sepete ekleniyor.
+2024-08-28 11:52:43 [main] INFO  BeymenTest:97 - Sepete gidiliyor.
+2024-08-28 11:57:31 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 11:57:36 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 11:57:40 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 11:57:44 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 11:57:47 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 11:57:47 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 11:58:12 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 11:58:12 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 12:12:46 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 12:12:51 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 12:12:55 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 12:12:59 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 12:13:03 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 12:13:03 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 12:13:27 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 12:13:27 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 12:13:27 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 12:13:27 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 12:13:29 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 12:13:30 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 12:13:35 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 12:13:40 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:03:51 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:03:56 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:04:00 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:04:04 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:04:07 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:04:07 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:04:32 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:04:32 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:04:32 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:04:32 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:04:34 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:04:35 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:04:40 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:04:45 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:08:34 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:08:40 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:08:44 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:08:48 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:08:51 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:08:51 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:09:16 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:09:16 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:09:16 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:09:16 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:09:18 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:09:18 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:09:23 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:09:34 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:12:42 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:12:48 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:12:52 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:12:56 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:12:59 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:12:59 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:13:23 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:13:23 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:13:23 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:13:23 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:13:25 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:13:25 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:13:35 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:13:51 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:15:57 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:23:51 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:23:57 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:24:01 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:24:05 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:24:08 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:24:08 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:24:33 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:24:33 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:24:33 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:24:33 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:24:36 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:29:16 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:29:22 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:29:26 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:29:30 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:29:33 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:29:33 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:29:58 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:29:58 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:29:58 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:29:58 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:30:01 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:31:19 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:31:25 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:31:29 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:31:34 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:31:37 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:31:37 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:32:02 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:32:02 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:32:02 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:32:02 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:32:05 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:34:21 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:34:27 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:34:31 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:34:35 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:34:38 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:34:38 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:35:04 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:35:04 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:35:04 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:35:04 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:35:06 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:37:42 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:37:49 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:37:54 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:37:58 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:38:01 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:38:01 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:38:26 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:38:26 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:38:26 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:38:26 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:38:29 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:41:02 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:41:09 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:41:13 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:41:18 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:41:21 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:41:21 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:41:46 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:41:46 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:41:46 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:41:46 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:41:48 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:41:49 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:41:59 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:42:14 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:44:07 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:44:13 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:44:17 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:44:22 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:44:25 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:44:25 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:44:49 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:44:49 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:44:49 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:44:49 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:44:52 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:44:52 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:45:02 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:45:18 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:55:21 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:55:26 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:55:31 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:55:35 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:55:38 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:55:38 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:56:03 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:56:03 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:56:04 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:56:04 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:56:06 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:56:06 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:56:17 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:56:32 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 13:56:55 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 13:57:02 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 13:57:06 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 13:57:10 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 13:57:13 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 13:57:13 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 13:57:38 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 13:57:38 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 13:57:38 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 13:57:38 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 13:57:41 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 13:57:41 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 13:57:51 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 13:58:06 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:00:48 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:00:54 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:00:59 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:01:03 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:01:06 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:01:06 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:01:30 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:01:31 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:01:31 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:01:31 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:01:33 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:01:33 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:01:43 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:01:59 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:04:18 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:04:24 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:04:28 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:04:32 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:04:35 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:04:35 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:05:00 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:05:00 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:05:00 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:05:00 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:05:03 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:05:03 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:05:13 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:05:29 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:10:38 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:10:42 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:10:46 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:10:50 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:10:54 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:10:54 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:11:19 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:11:19 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:11:19 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:11:19 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:11:22 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:11:22 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:11:32 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:11:47 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:11:55 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:12:01 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:12:05 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:12:09 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:12:12 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:12:12 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:12:39 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:12:39 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:12:39 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:12:39 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:12:43 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:12:43 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:12:53 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:13:09 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:18:40 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:18:46 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:18:51 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:18:55 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:18:58 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:18:58 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:19:23 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:19:23 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:19:23 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:19:23 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:19:26 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:19:26 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:19:36 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:19:51 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:23:17 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:23:23 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:23:27 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:23:31 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:23:34 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:23:34 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:23:59 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:23:59 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:23:59 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:23:59 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:24:00 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:24:01 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:24:11 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:24:26 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:27:58 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:28:04 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:28:08 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:28:12 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:28:15 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:28:15 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:28:40 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:28:40 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:28:40 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:28:40 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:28:43 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:29:38 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:29:44 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:29:48 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:29:52 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:29:55 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:29:55 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:30:20 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:30:20 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:30:20 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:30:20 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:30:23 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:31:58 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:32:04 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:32:08 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:32:12 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:32:15 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:32:15 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:32:40 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:32:40 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:32:40 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:32:40 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:32:43 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:32:43 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:32:53 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:33:09 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:40:36 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:40:44 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:40:48 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:40:52 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:40:55 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:40:55 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:41:21 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:41:21 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:41:21 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:41:21 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:41:23 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:41:34 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:41:44 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:41:59 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:43:13 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:43:19 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:43:23 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:43:27 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:43:30 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:43:30 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:43:55 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:43:56 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:43:56 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:43:56 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:43:58 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:43:58 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:44:09 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:44:24 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:46:19 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:46:25 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:46:29 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:46:33 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:46:36 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:46:36 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:47:01 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:47:01 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:47:01 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:47:01 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:47:04 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:47:04 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:47:14 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:47:30 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:48:04 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 14:48:10 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 14:48:14 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 14:48:18 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 14:48:21 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 14:48:21 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 14:48:47 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 14:48:47 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 14:48:47 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 14:48:47 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 14:48:49 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 14:48:50 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 14:49:00 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 14:49:16 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 14:49:16 [main] INFO  BeymenTest:106 - Ürün fiyatları doğrulandı.
+2024-08-28 14:49:18 [main] INFO  BeymenTest:109 - Ürün adedi artırıldı.
+2024-08-28 14:49:20 [main] INFO  BeymenTest:113 - Sepet boşaltıldı.
+2024-08-28 15:00:09 [main] INFO  BeymenTest:47 - Ana sayfa açılıyor.
+2024-08-28 15:00:15 [main] INFO  BeymenTest:50 - Ana sayfa başarıyla açıldı.
+2024-08-28 15:00:19 [main] INFO  BeymenTest:57 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 15:00:23 [main] INFO  BeymenTest:60 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 15:00:26 [main] INFO  BeymenTest:63 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 15:00:26 [main] INFO  BeymenTest:69 - Arama kutucuğuna veri giriliyor.
+2024-08-28 15:00:51 [main] INFO  BeymenTest:72 - Arama sonuçları kontrol ediliyor.
+2024-08-28 15:00:51 [main] INFO  BeymenTest:75 - Rastgele bir ürün seçiliyor.
+2024-08-28 15:00:51 [main] INFO  BeymenTest:82 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 15:00:51 [main] INFO  BeymenTest:89 - Ürün sayfasına gidiliyor.
+2024-08-28 15:00:54 [main] INFO  BeymenTest:92 - Rastgele bir beden seçiliyor.
+2024-08-28 15:00:54 [main] INFO  BeymenTest:95 - Ürün sepete ekleniyor.
+2024-08-28 15:01:04 [main] INFO  BeymenTest:98 - Sepete gidiliyor.
+2024-08-28 15:01:19 [main] INFO  BeymenTest:101 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 15:01:19 [main] INFO  BeymenTest:107 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-28 15:01:23 [main] INFO  BeymenTest:110 - Ürün adedi artırıldı.
+2024-08-28 15:01:25 [main] INFO  BeymenTest:114 - Sepet boşaltıldı.
+2024-08-28 15:10:48 [main] INFO  BeymenTest:50 - Ana sayfa açılıyor.
+2024-08-28 15:10:54 [main] INFO  BeymenTest:53 - Ana sayfa başarıyla açıldı.
+2024-08-28 15:10:58 [main] INFO  BeymenTest:60 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 15:11:02 [main] INFO  BeymenTest:63 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 15:11:05 [main] INFO  BeymenTest:66 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 15:11:05 [main] INFO  BeymenTest:68 - Arama kutucuğuna veri giriliyor.
+2024-08-28 15:11:31 [main] INFO  BeymenTest:71 - Arama sonuçları kontrol ediliyor.
+2024-08-28 15:11:31 [main] INFO  BeymenTest:74 - Rastgele bir ürün seçiliyor.
+2024-08-28 15:11:31 [main] INFO  BeymenTest:79 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 15:11:31 [main] INFO  BeymenTest:86 - Ürün sayfasına gidiliyor.
+2024-08-28 15:11:34 [main] INFO  BeymenTest:89 - Rastgele bir beden seçiliyor.
+2024-08-28 15:11:34 [main] INFO  BeymenTest:92 - Ürün sepete ekleniyor.
+2024-08-28 15:11:39 [main] INFO  BeymenTest:95 - Sepete gidiliyor.
+2024-08-28 15:11:46 [main] INFO  BeymenTest:98 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 15:11:46 [main] INFO  BeymenTest:104 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-28 15:11:49 [main] INFO  BeymenTest:107 - Ürün adedi artırıldı.
+2024-08-28 15:11:51 [main] INFO  BeymenTest:111 - Sepet boşaltıldı.
+2024-08-28 15:14:26 [main] INFO  BeymenTest:55 - Ana sayfa açılıyor.
+2024-08-28 15:14:32 [main] INFO  BeymenTest:58 - Ana sayfa başarıyla açıldı.
+2024-08-28 15:14:36 [main] INFO  BeymenTest:65 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 15:14:40 [main] INFO  BeymenTest:68 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 15:14:43 [main] INFO  BeymenTest:71 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 15:14:43 [main] INFO  BeymenTest:73 - Arama kutucuğuna veri giriliyor.
+2024-08-28 15:15:08 [main] INFO  BeymenTest:76 - Arama sonuçları kontrol ediliyor.
+2024-08-28 15:15:08 [main] INFO  BeymenTest:79 - Rastgele bir ürün seçiliyor.
+2024-08-28 15:15:08 [main] INFO  BeymenTest:84 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 15:15:08 [main] INFO  BeymenTest:91 - Ürün sayfasına gidiliyor.
+2024-08-28 15:15:11 [main] INFO  BeymenTest:94 - Rastgele bir beden seçiliyor.
+2024-08-28 15:15:11 [main] INFO  BeymenTest:97 - Ürün sepete ekleniyor.
+2024-08-28 15:15:16 [main] INFO  BeymenTest:100 - Sepete gidiliyor.
+2024-08-28 15:15:22 [main] INFO  BeymenTest:103 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 15:15:22 [main] INFO  BeymenTest:109 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-28 15:15:25 [main] INFO  BeymenTest:112 - Ürün adedi artırıldı.
+2024-08-28 15:23:13 [main] INFO  BeymenTest:55 - Ana sayfa açılıyor.
+2024-08-28 15:23:19 [main] INFO  BeymenTest:58 - Ana sayfa başarıyla açıldı.
+2024-08-28 15:23:23 [main] INFO  BeymenTest:65 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 15:23:27 [main] INFO  BeymenTest:68 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 15:23:30 [main] INFO  BeymenTest:71 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 15:23:30 [main] INFO  BeymenTest:73 - Arama kutucuğuna veri giriliyor.
+2024-08-28 15:23:56 [main] INFO  BeymenTest:76 - Arama sonuçları kontrol ediliyor.
+2024-08-28 15:23:56 [main] INFO  BeymenTest:79 - Rastgele bir ürün seçiliyor.
+2024-08-28 15:23:56 [main] INFO  BeymenTest:84 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 15:23:56 [main] INFO  BeymenTest:91 - Ürün sayfasına gidiliyor.
+2024-08-28 15:23:58 [main] INFO  BeymenTest:94 - Rastgele bir beden seçiliyor.
+2024-08-28 15:23:59 [main] INFO  BeymenTest:97 - Ürün sepete ekleniyor.
+2024-08-28 15:24:04 [main] INFO  BeymenTest:100 - Sepete gidiliyor.
+2024-08-28 15:24:10 [main] INFO  BeymenTest:103 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 15:24:10 [main] INFO  BeymenTest:109 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-28 15:24:13 [main] INFO  BeymenTest:112 - Ürün adedi artırıldı.
+2024-08-28 15:24:55 [main] INFO  BeymenTest:55 - Ana sayfa açılıyor.
+2024-08-28 15:25:01 [main] INFO  BeymenTest:58 - Ana sayfa başarıyla açıldı.
+2024-08-28 15:25:05 [main] INFO  BeymenTest:65 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-28 15:25:09 [main] INFO  BeymenTest:68 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-28 15:25:12 [main] INFO  BeymenTest:71 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-28 15:25:12 [main] INFO  BeymenTest:73 - Arama kutucuğuna veri giriliyor.
+2024-08-28 15:25:37 [main] INFO  BeymenTest:76 - Arama sonuçları kontrol ediliyor.
+2024-08-28 15:25:37 [main] INFO  BeymenTest:79 - Rastgele bir ürün seçiliyor.
+2024-08-28 15:25:37 [main] INFO  BeymenTest:84 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-28 15:25:37 [main] INFO  BeymenTest:91 - Ürün sayfasına gidiliyor.
+2024-08-28 15:25:40 [main] INFO  BeymenTest:94 - Rastgele bir beden seçiliyor.
+2024-08-28 15:25:40 [main] INFO  BeymenTest:97 - Ürün sepete ekleniyor.
+2024-08-28 15:25:45 [main] INFO  BeymenTest:100 - Sepete gidiliyor.
+2024-08-28 15:25:51 [main] INFO  BeymenTest:103 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-28 15:25:51 [main] INFO  BeymenTest:109 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-28 15:25:54 [main] INFO  BeymenTest:112 - Ürün adedi artırıldı.
+2024-08-28 15:25:56 [main] INFO  BeymenTest:116 - Sepet boşaltıldı.
