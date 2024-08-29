@@ -1096,3 +1096,20 @@
 2024-08-29 17:45:55 [main] INFO  BeymenTest:109 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
 2024-08-29 17:46:01 [main] INFO  BeymenTest:112 - Ürün adedi artırıldı.
 2024-08-29 17:46:03 [main] INFO  BeymenTest:116 - Sepet boşaltıldı.
+2024-08-29 17:53:02 [main] INFO  BeymenTest:55 - Ana sayfa açılıyor.
+2024-08-29 17:53:08 [main] INFO  BeymenTest:58 - Ana sayfa başarıyla açıldı.
+2024-08-29 17:53:12 [main] INFO  BeymenTest:65 - Çerez seçimi için 'Tüm Çerezleri Kabul Et' seçenek butonuna tıklandı.
+2024-08-29 17:53:16 [main] INFO  BeymenTest:68 - Cinsiyet seçimi için 'Erkek' seçenek butonuna tıklandı.
+2024-08-29 17:53:19 [main] INFO  BeymenTest:71 - Bilgilendirme için 'Hayır,Teşekkürler' seçenek butonuna tıklandı.
+2024-08-29 17:53:19 [main] INFO  BeymenTest:73 - Arama kutucuğuna veri giriliyor.
+2024-08-29 17:53:43 [main] INFO  BeymenTest:76 - Arama sonuçları kontrol ediliyor.
+2024-08-29 17:53:43 [main] INFO  BeymenTest:79 - Rastgele bir ürün seçiliyor.
+2024-08-29 17:53:44 [main] INFO  BeymenTest:84 - Seçilen ürün: Comfort Fit Beyaz Keten Gömlek, Fiyat: 2.599 TL
+2024-08-29 17:53:44 [main] INFO  BeymenTest:91 - Ürün sayfasına gidiliyor.
+2024-08-29 17:53:45 [main] INFO  BeymenTest:94 - Rastgele bir beden seçiliyor.
+2024-08-29 17:53:46 [main] INFO  BeymenTest:97 - Ürün sepete ekleniyor.
+2024-08-29 17:53:51 [main] INFO  BeymenTest:100 - Sepete gidiliyor.
+2024-08-29 17:53:57 [main] INFO  BeymenTest:103 - Farklı dönen fiyat formatı düzeltiliyor
+2024-08-29 17:53:57 [main] INFO  BeymenTest:109 - Ürün fiyatları doğrulandı. productPrice: 2.599 TL, cartPagePrice: 2.599 TL
+2024-08-29 17:54:03 [main] INFO  BeymenTest:112 - Ürün adedi artırıldı.
+2024-08-29 17:54:05 [main] INFO  BeymenTest:116 - Sepet boşaltıldı.

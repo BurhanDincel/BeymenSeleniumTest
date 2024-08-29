@@ -12,7 +12,7 @@ public class ExcelUtils {
 
     private static Workbook workbook;
     private static Sheet sheet;
-    private static String filePath = "C:\\Users\\Administrator\\IdeaProjects\\TestiniumHW1\\src\\main\\resources\\Beymen.xlsx";
+    private static String filePath = "src/main/resources/Beymen.xlsx";
 
     // Excel dosyasını aç ve belirtilen sayfayı seç
     public static void loadExcel(String filePath, int sheetIndex) {
