@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import java.util.Objects;
+
 public class CartPage {
     public WebDriver driver;
     public By cartProductPrice = By.className("priceBox__salePrice");
@@ -29,7 +31,18 @@ public class CartPage {
         Thread.sleep(1000);
         WebElement firstOption = driver.findElement(By.xpath("//*[@id=\"quantitySelect0-key-0\"]/option[2]"));
         firstOption.click();
-        Thread.sleep(2000);
+        Thread.sleep(5000);
+    }
+
+    public void validateProductQuantity() {
+        WebElement selectedQuantity = driver.findElement(By.xpath("//*[@id=\"quantitySelect0-key-0\"]//option[@selected='selected']"));
+        String selectedValue = selectedQuantity.getText();
+
+        if (!Objects.equals(selectedValue, "2"))
+            System.out.println("Ürün adedi beklenilen değerde değil!");
+        else
+            System.out.println("Ürün adedi beklenilen değerde: 2");
+
     }
 
     public void removeProductFromCart() throws InterruptedException {
